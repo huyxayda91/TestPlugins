@@ -3,6 +3,6 @@
   "description": "Lorem ipsum",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://script.google.com/macros/s/AKfycbwsvLFzWMdxvX9ZH-3wnP3GJzS58v0CtT_0mlEYeOz6cOsgen9IR3c6VPv_EssPXMFzwQ/exec?name=plugin_json&type=json"
+    "https://raw.githubusercontent.com/huyxayda91/TestPlugins/refs/heads/master/xayda.json"
   ]
 }
