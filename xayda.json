@@ -87,15 +87,15 @@
             "Movie"
         ],
         "version": 35,
-        "internalName": "ViStreamProvider",
+        "internalName": "phimchill",
         "description": "Download FullHD, 2K, 4K from torrent and cloud driver",
         "url": "https://rawcdn.githack.com/alokillgtv-gif/VAXAPPSCRIPT/7d0e0fa38f25e674bdc4af09fc46832c9c898876/Plugins/phimchill_plugin.js",
-        "name": "ViStreamProvider"
+        "name": "phimchill"
     },
     {
-        "iconUrl": "https://play-lh.googleusercontent.com/gMB8Eq9g9Uq6CXiOHcqatXpx-6HTexAzcQibTgpqAE756Fnt1Jyyp0j7S3UDKPztkA=w480-h960-rw",
+        "iconUrl": "https://raw.githubusercontent.com/alokillgtv-gif/VAXAPPSCRIPT/main/img/phimchill.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
+        "repositoryUrl": "https://rawcdn.githack.com/alokillgtv-gif/VAXAPPSCRIPT/7d0e0fa38f25e674bdc4af09fc46832c9c898876/Plugins/phimchill_plugin.js",
         "fileSize": 28540,
         "status": 1,
         "authors": [
