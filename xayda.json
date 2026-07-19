@@ -2,9 +2,9 @@
     {
         "url": "https://rawcdn.githack.com/alokillgtv-gif/VAXAPPSCRIPT/7d0e0fa38f25e674bdc4af09fc46832c9c898876/Plugins/phimchill_plugin.js",
         "status": 1,
-        "version": 18,
-        "name": "AnimeHayProvider",
-        "internalName": "AnimeHayProvider",
+        "version": 3.7.8,
+        "name": "Phim Chill",
+        "internalName": "Phim Chill",
         "authors": [
             "anhdaden"
         ],
@@ -13,7 +13,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/animehay.ico",
+        "iconUrl": "https://raw.githubusercontent.com/alokillgtv-gif/VAXAPPSCRIPT/main/img/phimchill.ico",
         "apiVersion": 1,
         "fileHash": "sha256-0d28471205a6f61a56ed727f223357f5fb751ed003b64847410b50682787d918"
     },
