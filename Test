@@ -3,6 +3,6 @@
   "description": "Lorem ipsum",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/recloudstream/TestPlugins/builds/plugins.json"
+    "https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQ6vsxuKew11p4wcg9MKQmxm5IlLaUj6tOYOCpIvWcg-q2FY6_-E0XBb20TGCtlYvsZky3besEH88jERXIa3hQvZTzusoxBo9_40ar-tXTFMGOsMWs5yHVuiYGfna0B2oacYDleJhVg-q4ATOWRCoDtUNpeNXTXW5j9737CHwqvAOrCiZ2vmayMtrbuZpVyiPZ1Y6xLytNlbBui3E32lIeBGuP4gdvQPG3ShEMkoxUD7zfY52qBqQbA3G1178o-MW-YQkj9Lrd6kKUUiAKZ_3UY09E_EFTWWxalWIDHA0Q9EFe8otquLgIOo3cXfw&lib=MPxxzb1Kkk4iIWDEqUlszCUFzZv_HONEI"
   ]
 }
