@@ -6,9 +6,9 @@
     "versionCode": 1,
     "description": "PhimChill Extension (JavaScript)",
     "author": "alokillgtv-gif",
-    "tvTypes": ["Movie", "TvSeries", "Anime"],
+    "tvTypes": "Movie",
     "language": "vi",
     "url": "https://rawcdn.githack.com/alokillgtv-gif/VAXAPPSCRIPT/7d0e0fa38f25e674bdc4af09fc46832c9c898876/Plugins/phimchill_plugin.js",
-    "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/master/PluginTemplate/icon.png"
+    "iconUrl": "https://raw.githubusercontent.com/alokillgtv-gif/VAXAPPSCRIPT/main/img/phimchill.ico"
   }
 ]
